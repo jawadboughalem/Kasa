@@ -17,7 +17,7 @@ const datas = [
 		},
 		"rating": "5",
 		"location": "Ile de France - Paris 17e",
-		"equipements": [
+		"equipments": [
 			"Équipements de base",
 			"Micro-Ondes",
 			"Douche italienne",
@@ -48,7 +48,7 @@ const datas = [
 		},
 		"rating": "4",
 		"location": "Ile de France - Paris 10e",
-		"equipements": [
+		"equipments": [
 			"Parking",
 			"Sèche Cheveux",
 			"Machine à laver",
@@ -79,7 +79,7 @@ const datas = [
 		},
 		"rating": "3",
 		"location": "Ile de France - Paris 20e",
-		"equipements": [
+		"equipments": [
 			"Wifi",
 			"Cuisine équipée",
 			"Télévision",
@@ -108,7 +108,7 @@ const datas = [
 		},
 		"rating": "3",
 		"location": "Ile de France - Paris 11e",
-		"equipements": [
+		"equipments": [
 			"Micro-Ondes",
 			"Wifi",
 			"Chambre Séparée",
@@ -141,7 +141,7 @@ const datas = [
 		},
 		"rating": "5",
 		"location": "Ile de France - Paris 10e",
-		"equipements": [
+		"equipments": [
 			"Frigo Américain",
 			"Sèche Cheveux",
 			"Wifi",
@@ -171,7 +171,7 @@ const datas = [
 		},
 		"rating": "5",
 		"location": "Ile de France - Paris 18e",
-		"equipements": [
+		"equipments": [
 			"Chambre Séparée",
 			"Parking"
 		],
@@ -198,7 +198,7 @@ const datas = [
 		},
 		"rating": "3",
 		"location": "Ile de France - Paris 18e",
-		"equipements": [
+		"equipments": [
 			"Salle de bains",
 			"Frigo",
 			"Wifi",
@@ -231,7 +231,7 @@ const datas = [
 		},
 		"rating": "5",
 		"location": "Ile de France - Paris 6e",
-		"equipements": [
+		"equipments": [
 			"Wifi",
 			"Sèche Cheveux",
 			"Machine à laver",
@@ -264,7 +264,7 @@ const datas = [
 		},
 		"rating": "4",
 		"location": "Ile de France - Paris 14e",
-		"equipements": [
+		"equipments": [
 			"Climatisation",
 			"Machine à laver",
 			"Sèche Cheveux",
@@ -294,7 +294,7 @@ const datas = [
 		},
 		"rating": "3",
 		"location": "Ile de France - Paris 11e",
-		"equipements": [
+		"equipments": [
 			"Vue Parc",
 			"Chauffages",
 			"Sèche linge",
@@ -326,7 +326,7 @@ const datas = [
 		},
 		"rating": "4",
 		"location": "Ile de France - Paris 11e",
-		"equipements": [
+		"equipments": [
 			"Clic-clac",
 			"Quatre",
 			"Sèche Cheveux",
@@ -355,7 +355,7 @@ const datas = [
 		},
 		"rating": "3",
 		"location": "Ile de France - Paris 3e",
-		"equipements": [
+		"equipments": [
 			"Rangements",
 			"Allumé",
 			"Sèche Cheveux",
@@ -389,7 +389,7 @@ const datas = [
 		},
 		"rating": "5",
 		"location": "Ile de France - Écouen",
-		"equipements": [
+		"equipments": [
 			"SDB",
 			"Cuisine équipée",
 			"Toilettes sèches",
@@ -420,7 +420,7 @@ const datas = [
 		},
 		"rating": "4",
 		"location": "Ile de France - Arnouville",
-		"equipements": [
+		"equipments": [
 			"SDB",
 			"Cuisine équipée",
 			"Frigo",
@@ -454,7 +454,7 @@ const datas = [
 		},
 		"rating": "3",
 		"location": "Ile de France - Arnouville",
-		"equipements": [
+		"equipments": [
 			"Bouiloire",
 			"SDB",
 			"Cuisine équipée",
@@ -490,7 +490,7 @@ const datas = [
 		},
 		"rating": "3",
 		"lieu": "Ile de France - La Défense",
-		"equipements": [
+		"equipments": [
 			"Baie vitrée",
 			"Télévision",
 			"Quatre",
@@ -523,7 +523,7 @@ const datas = [
 		},
 		"rating": "4",
 		"location": "Ile de France - Levallois",
-		"equipements": [
+		"equipments": [
 			"Télévision",
 			"Quatre",
 			"Frigo",
@@ -550,7 +550,7 @@ const datas = [
 		},
 		"rating": "2",
 		"location": "Ile de France - Paris 20e",
-		"equipements": [
+		"equipments": [
 			"Bouiloire",
 			"Wifi",
 			"Micro-Ondes"
@@ -576,7 +576,7 @@ const datas = [
 		},
 		"rating": "4",
 		"location": "Ile de France - Paris 13e",
-		"equipements": [
+		"equipments": [
 			"Équipements de base",
 			"Quatre",
 			"Frigo",
@@ -603,7 +603,7 @@ const datas = [
 		},
 		"rating": "4",
 		"location": "Ile de France - Paris 13e",
-		"equipements": [
+		"equipments": [
 			"Wifi",
 			"Équipements de base",
 			"Micro-Ondes",
