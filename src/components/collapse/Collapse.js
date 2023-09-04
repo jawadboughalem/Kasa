@@ -1,9 +1,8 @@
-import './collapse.scss'
+import './collapse.scss';
 import arrow from '../../assets/arrow.png';
 import { useState } from 'react';
 
-export default function Collapse({title, content}) {
-    
+export default function Collapse({ title, content }) {
     const [toggle, setToggle] = useState(false);
 
     return (
@@ -12,7 +11,7 @@ export default function Collapse({title, content}) {
                 <h3 className='collapse_title' onClick={() => setToggle(!toggle)}>
                     {title}
                     <img 
-                        className={toggle ? 'arrow arrow_up' : 'arrow_down'}
+                        className={`arrow ${toggle ? 'arrow_up' : 'arrow_down'}`}
                         src={arrow}
                         alt="content"
                     />
@@ -27,5 +26,5 @@ export default function Collapse({title, content}) {
                 </div>
             </div>
         </>
-    )
+    );
 }
